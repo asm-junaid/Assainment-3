@@ -1,3 +1,6 @@
+#slide-id{
+    height: 100%;
+}
 footer{
     display: flex;
     flex-direction: column;
@@ -21,6 +24,9 @@ footer a{
     margin-right: 10px;
     text-decoration: none;
     color: white;
+}
+.social-icons{
+    margin-top: 20px;
 }
 .icons{
     font-size: 25px;
