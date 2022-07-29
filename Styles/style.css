@@ -1,5 +1,5 @@
 #slide-id{
-    height: 100%;
+    height: 99%;
 }
 footer{
     display: flex;
@@ -7,7 +7,7 @@ footer{
     background-color: black;
     align-items: center;
     justify-content: center;
-    padding: 70px 30px;
+    padding: 71px 32px;
     margin-top: 100px;
 }
 footer h1{
